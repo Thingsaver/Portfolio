@@ -1,2 +1,2 @@
 # Portfolio
-for all my cert and resumes and projects
+For all my coding projects from my certs
